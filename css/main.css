@@ -130,6 +130,10 @@ section .addtocart a:hover {
         display: none;
     }
 
+    section .left {
+        width: 100%;
+    }
+
     section .left .img-mobile {
         display: block;
         width: 100%;
@@ -138,6 +142,7 @@ section .addtocart a:hover {
 
     section .right {
         height: auto;
+        width: 100%;
         border-radius: 0px 0px 15px 15px;
         padding: 30px;
     }
