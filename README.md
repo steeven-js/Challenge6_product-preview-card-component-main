@@ -95,3 +95,4 @@ git add .
 git commit -m "Challenge 6 ✅"
 git push -u origin main
 ```
+https://steeven-js.github.io/Challenge6_product-preview-card-component-main/
