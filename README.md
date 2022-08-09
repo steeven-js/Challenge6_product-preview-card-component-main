@@ -91,10 +91,7 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 ```
-git init
 git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/steeven-js/Challenge6_product-preview-card-component-main.git
+git commit -m "Challenge 6 ✅"
 git push -u origin main
 ```
